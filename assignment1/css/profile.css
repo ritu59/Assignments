@@ -1,0 +1,33 @@
+#home{
+        text-align: center;
+          font-size: 25px;
+      }
+      .Profile{
+        text-align: center;
+        color: whitesmoke;
+      }
+      .btn
+      { //for class (.)
+      background-color: DogdeBlue;
+      border: none;
+      color: blue;
+      padding: 12px 30px;
+      cursor: pointer;
+      font-size: 20px;
+      }
+      [class*="col-"]
+       {
+      width: 100%;
+      }
+      h3{
+        font-weight: bold
+      }
+      #menu1
+      { background: whitesmoke;
+        width: 900px;
+        border: 5px inset black;
+        align: center;
+      }
+      img {
+      border-radius: 50%;
+    }
